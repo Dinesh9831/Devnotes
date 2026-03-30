@@ -261,12 +261,3 @@ Mastering containers, images, networks, and volumes prepares you for:
 
 ---
 
-## 🔷 12. What Comes Next
-
-Next, you will study:
-
-➡ **Dockerfile Core Concepts & Image Building** (Unit II)
-
-This is the point where **Docker CLI knowledge meets image creation and optimization**.
-
----
