@@ -237,13 +237,3 @@ They ensure that:
 
 ---
 
-## 🔷 14. What Comes Next
-
-Next, you will explore:
-
-➡ **Container Runtime (runc, containerd)**
-➡ How containers are actually created and executed behind Docker
-
-This will move you from theory → execution layer.
-
----

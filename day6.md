@@ -254,14 +254,3 @@ Layering makes Docker:
 * Storage-efficient
 
 ---
-
-## 🔷 15. What Comes Next
-
-Next, you will study:
-
-➡ **Image Registries & Distribution**
-➡ How images are stored, shared, and pulled across systems
-
-This will complete the image lifecycle understanding.
-
----

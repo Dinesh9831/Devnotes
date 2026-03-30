@@ -226,14 +226,3 @@ Namespaces enable:
 They transform a single OS into multiple **logical environments**, forming the backbone of containerization.
 
 ---
-
-## 🔷 13. What Comes Next
-
-Next, you will study:
-
-➡ **Control Groups (cgroups)**
-➡ How containers enforce **resource limits and fairness**
-
-This will complete your understanding of container internals.
-
----

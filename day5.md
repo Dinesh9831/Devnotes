@@ -268,14 +268,3 @@ They:
 * Ensure containers run efficiently and consistently
 
 ---
-
-## 🔷 16. What Comes Next
-
-Next, you will study:
-
-➡ **Container Images & Layering**
-➡ How applications are packaged and optimized
-
-This is where DevOps meets **build engineering**.
-
----

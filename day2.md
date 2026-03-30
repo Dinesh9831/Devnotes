@@ -208,13 +208,3 @@ This foundation enables modern DevOps practices, including CI/CD and microservic
 
 ---
 
-## 🔷 12. What Comes Next
-
-In the next stage, you will go deeper into:
-
-* **Namespaces (detailed breakdown)**
-* Understanding how isolation is actually implemented
-
-This is where theoretical knowledge becomes **system-level mastery**.
-
----

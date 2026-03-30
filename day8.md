@@ -251,13 +251,3 @@ into a single **usable DevOps platform**.
 
 ---
 
-## 🔷 15. What Comes Next
-
-Next, you will study:
-
-➡ **Docker CLI and Object Management**
-➡ Containers, images, networks, volumes in detail
-
-This will transition you from theory → practical commands and experiments.
-
----

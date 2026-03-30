@@ -247,13 +247,3 @@ They transform container images into **deployable assets across environments**.
 
 ---
 
-## 🔷 15. What Comes Next
-
-Next, you will study:
-
-➡ **Introduction to Docker & Docker Architecture**
-➡ Understanding how all components connect together
-
-This will unify everything you have learned so far.
-
----
