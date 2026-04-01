@@ -251,7 +251,7 @@ A read-only filesystem change created by each Dockerfile instruction.
 
 ---
 
-## 🔷 14. Key Insights (You Must Internalize)
+## 🔷 14. Key Insights
 
 * Dockerfile = blueprint for images
 * Each instruction = one layer
@@ -269,14 +269,5 @@ Dockerfile enables:
 * Efficient DevOps workflows
 
 It is the **entry point into real-world container engineering**.
-
----
-
-## 🔷 16. What Comes Next
-
-Next, you will go deeper into:
-
-➡ **Advanced Dockerfile Instructions (COPY, ADD, ENV, WORKDIR, etc.)**
-➡ Writing production-ready Dockerfiles
 
 ---
