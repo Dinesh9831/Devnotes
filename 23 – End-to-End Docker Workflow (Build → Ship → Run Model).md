@@ -213,4 +213,3 @@ The Docker workflow connects all concepts:
 This is the **core foundation of modern container-based DevOps systems**.
 
 ---
-
