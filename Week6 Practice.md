@@ -21,6 +21,7 @@ To understand and implement Docker volumes for persistent data storage across co
 
 ### 🔹 Create Volume
 
+
 ```bash
 docker volume create mydata
 ```

@@ -99,3 +99,6 @@ docker rm <container_id>
 A custom Docker image was successfully created using a Dockerfile. The image was built, verified, and used to run a container. The application was deployed and accessed via the browser, demonstrating practical understanding of Docker image creation and container execution.
 
 ---
+
+
+

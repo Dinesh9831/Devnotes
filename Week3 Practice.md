@@ -135,3 +135,9 @@ docker inspect volcontainer
 Docker networking enables communication between containers within an isolated environment. Docker volumes provide persistent storage, ensuring that data remains intact even after containers are stopped or removed. These features are essential for building scalable and reliable containerized applications.
 
 ---
+
+
+
+
+
+
